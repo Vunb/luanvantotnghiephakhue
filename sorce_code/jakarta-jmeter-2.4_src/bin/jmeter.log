@@ -1,0 +1,33 @@
+2011/04/19 22:14:47 INFO  - jmeter.util.JMeterUtils: Setting Locale to en_US 
+2011/04/19 22:14:47 INFO  - jmeter.JMeter: Loading user properties from: D:\cao_hoc\luan_van_tot_nghiep\document_luanvan_hakhue\sorce_code\jakarta-jmeter-2.4_src\bin\user.properties 
+2011/04/19 22:14:47 INFO  - jmeter.JMeter: Loading system properties from: D:\cao_hoc\luan_van_tot_nghiep\document_luanvan_hakhue\sorce_code\jakarta-jmeter-2.4_src\bin\system.properties 
+2011/04/19 22:14:47 INFO  - jmeter.JMeter: Copyright (c) 1998-2010 The Apache Software Foundation 
+2011/04/19 22:14:47 INFO  - jmeter.JMeter: Version 2.4.20110419 
+2011/04/19 22:14:47 INFO  - jmeter.JMeter: java.version=1.6.0_18 
+2011/04/19 22:14:47 INFO  - jmeter.JMeter: java.vm.name=Java HotSpot(TM) Client VM 
+2011/04/19 22:14:47 INFO  - jmeter.JMeter: os.name=Windows XP 
+2011/04/19 22:14:47 INFO  - jmeter.JMeter: os.arch=x86 
+2011/04/19 22:14:47 INFO  - jmeter.JMeter: os.version=5.1 
+2011/04/19 22:14:47 INFO  - jmeter.JMeter: file.encoding=Cp1252 
+2011/04/19 22:14:47 INFO  - jmeter.JMeter: Default Locale=English (United States) 
+2011/04/19 22:14:47 INFO  - jmeter.JMeter: JMeter  Locale=English (United States) 
+2011/04/19 22:14:47 INFO  - jmeter.JMeter: JMeterHome=D:\cao_hoc\luan_van_tot_nghiep\document_luanvan_hakhue\sorce_code\jakarta-jmeter-2.4_src 
+2011/04/19 22:14:47 INFO  - jmeter.JMeter: user.dir  =D:\cao_hoc\luan_van_tot_nghiep\document_luanvan_hakhue\sorce_code\jakarta-jmeter-2.4_src\bin 
+2011/04/19 22:14:47 INFO  - jmeter.JMeter: PWD       =D:\cao_hoc\luan_van_tot_nghiep\document_luanvan_hakhue\sorce_code\jakarta-jmeter-2.4_src\bin 
+2011/04/19 22:14:48 INFO  - jmeter.JMeter: IP: 10.0.0.7 Name: compaq-cq FullName: compaq-cq 
+2011/04/19 22:14:48 INFO  - jmeter.JMeter: Loaded icon properties from org/apache/jmeter/images/icon.properties 
+2011/04/19 22:14:50 INFO  - jmeter.engine.util.CompoundVariable: Note: Function class names must contain the string: '.functions.' 
+2011/04/19 22:14:50 INFO  - jmeter.engine.util.CompoundVariable: Note: Function class names must not contain the string: '.gui.' 
+2011/04/19 22:14:50 ERROR - jmeter.gui.action.Help: Couldn't load help file java.io.FileNotFoundException: D:\cao_hoc\luan_van_tot_nghiep\document_luanvan_hakhue\sorce_code\jakarta-jmeter-2.4_src\printable_docs\usermanual\component_reference.html (The system cannot find the path specified) 
+2011/04/19 22:14:50 INFO  - jmeter.util.BSFTestElement: Registering JMeter version of JavaScript engine as work-round for BSF-22 
+2011/04/19 22:14:51 INFO  - jmeter.protocol.http.sampler.HTTPSamplerBase: Cannot find .className property for htmlParser, using default 
+2011/04/19 22:14:51 INFO  - jmeter.protocol.http.sampler.HTTPSamplerBase: Parser for text/html is  
+2011/04/19 22:14:51 INFO  - jmeter.protocol.http.sampler.HTTPSamplerBase: Parser for application/xhtml+xml is  
+2011/04/19 22:14:51 INFO  - jmeter.protocol.http.sampler.HTTPSamplerBase: Parser for application/xml is  
+2011/04/19 22:14:51 INFO  - jmeter.protocol.http.sampler.HTTPSamplerBase: Parser for text/xml is  
+2011/04/19 22:14:51 INFO  - jmeter.protocol.http.sampler.HTTPSamplerBase: Parser for text/vnd.wap.wml is org.apache.jmeter.protocol.http.parser.RegexpHTMLParser 
+2011/04/19 22:14:51 INFO  - jmeter.gui.util.MenuFactory: Skipping org.apache.jmeter.protocol.http.modifier.gui.ParamModifierGui 
+2011/04/19 22:14:51 INFO  - jmeter.gui.util.MenuFactory: Skipping org.apache.jmeter.protocol.http.modifier.gui.UserParameterModifierGui 
+2011/04/19 22:14:51 INFO  - jmeter.protocol.http.sampler.HTTPSampler: Maximum connection retries = 10 
+2011/04/19 22:14:55 INFO  - jmeter.samplers.SampleResult: Note: Sample TimeStamps are START times 
+2011/04/19 22:14:55 INFO  - jmeter.samplers.SampleResult: sampleresult.default.encoding is set to ISO-8859-1 
